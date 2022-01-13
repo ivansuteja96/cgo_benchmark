@@ -3,7 +3,7 @@ the purpose of this repository is to benchmark CGO on Golang
 
 ## Benchmark Result
 
-goos: darwin
+goos: darwin <br />
 goarch: arm64
 
 - github.com/ivansuteja96/cgo_benchmark/benchmark/simple
